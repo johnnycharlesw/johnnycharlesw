@@ -2,7 +2,7 @@
    <h1>Hi</h1>
    <ul>
       <li>I am @johnnycharlesw</li>
-      <li>I have a hobby of coding</li>
+      <li>I have a hobby of programming</li>
    </ul>
    
    <h2>Check out this project (more will be put here soon!)</h2>
